@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\bin\Debug\Trabalho_de_Linguagem.exe.config
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\bin\Debug\Trabalho_de_Linguagem.exe
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\bin\Debug\Trabalho_de_Linguagem.pdb
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\obj\Debug\Trabalho_de_Linguagem.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\obj\Debug\Trabalho_de_Linguagem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\obj\Debug\Trabalho_de_Linguagem.exe
+C:\Users\HP\Documents\Trabalho linguagem\Trabalho_de_Linguagem\Trabalho_de_Linguagem\obj\Debug\Trabalho_de_Linguagem.pdb
